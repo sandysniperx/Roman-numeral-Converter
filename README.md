@@ -1,2 +1,3 @@
 # Roman-numeral-Converter
-Made a roman numeral - number converter in python, its an intermediate level project.
+another personal project.
+made a roman numeral - number converter in python, an intermediate level project.
